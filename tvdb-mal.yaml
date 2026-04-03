@@ -3170,6 +3170,15 @@ AnimeMap:
         - tvdbseason: 2
           start: 14
 
+    - malid: 586
+      title: 'Ayakashi: Japanese Classic Horror'
+      type: tv
+      tvdbid: 79202
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 592
       title: PopoloCrois
       type: tv
@@ -5062,6 +5071,15 @@ AnimeMap:
       tvdbid: 72470
       tvdbseason: 0
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2246
+      title: Mononoke
+      type: tv
+      tvdbid: 80470
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -17492,6 +17510,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52107
+      title: 'Mononoke Movie 1: Karakasa'
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 52149
       title: 'Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho'
       type: special
@@ -21515,6 +21542,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59408
+      title: 'Mononoke Movie 2: Hinezumi'
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 59421
       title: Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru
       type: tv
@@ -23183,6 +23219,15 @@ AnimeMap:
       tvdbid: 393810
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61202
+      title: 'Mononoke Movie 3: Hebigami'
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
