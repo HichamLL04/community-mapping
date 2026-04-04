@@ -4315,6 +4315,23 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1066
+      title: Shakugan no Shana-tan
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 1
+            2: 2
+            3: 3
+            5: 4
+
     - malid: 1072
       title: Sweat Punch
       type: ova
@@ -4709,6 +4726,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1531
+      title: 'Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!'
+      type: ova
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
     - malid: 1536
       title: Busou Renkin
       type: tv
@@ -4869,6 +4895,15 @@ AnimeMap:
           start: 451
         - tvdbseason: 22
           start: 459
+
+    - malid: 1815
+      title: Shakugan no Shana Movie
+      type: movie
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
 
     - malid: 1840
       title: 'Zero no Tsukaima: Futatsuki no Kishi'
@@ -5330,6 +5365,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3221
+      title: Shakugan no Shana-tan Movie
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
     - malid: 3226
       title: Major S4
       type: tv
@@ -5455,6 +5499,22 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 3956
+      title: Shakugan no Shana-tan II (Second)
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            7: 1
+            8: 2
+            10: 3
 
     - malid: 4037
       title: 'Cowboy Bebop: Yose Atsume Blues'
@@ -5942,6 +6002,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6330
+      title: 'Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako!'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 21
+      useMapping: false
+      animeMapping: []
+
     - malid: 6351
       title: 'Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen'
       type: special
@@ -5977,6 +6046,23 @@ AnimeMap:
       start: 20
       useMapping: false
       animeMapping: []
+
+    - malid: 6572
+      title: Shakugan no Shana S
+      type: ova
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            11: 1
+            13: 2
+            15: 3
+            17: 4
 
     - malid: 6573
       title: 'Darker than Black: Ryuusei no Gemini'
@@ -6210,6 +6296,23 @@ AnimeMap:
       start: 4
       useMapping: false
       animeMapping: []
+
+    - malid: 7375
+      title: Shakugan no Shana-tan S
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            12: 1
+            14: 2
+            16: 3
+            18: 4
 
     - malid: 7475
       title: Ano Ko ni 1000%
@@ -7428,6 +7531,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 12823
+      title: 'Shakugan no Shana-tan III (Final): Final Destruction'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 19
+      useMapping: false
+      animeMapping: []
+
     - malid: 12859
       title: 'One Piece Film: Z'
       type: movie
@@ -7650,6 +7762,15 @@ AnimeMap:
       tvdbid: 257890
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 14957
+      title: 'Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! 2'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 29
       useMapping: false
       animeMapping: []
 
@@ -7944,6 +8065,15 @@ AnimeMap:
       tvdbid: 114801
       tvdbseason: 0
       start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 17551
+      title: 'Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 37
       useMapping: false
       animeMapping: []
 
@@ -9569,6 +9699,15 @@ AnimeMap:
       tvdbid: 303145
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 28603
+      title: 'Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! Specials'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 38
       useMapping: false
       animeMapping: []
 
