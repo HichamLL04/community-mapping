@@ -3,40 +3,10 @@ AnimeMap:
       title: Cowboy Bebop
       type: tv
       tvdbid: 76885
-      tvdbseason: 0
+      tvdbseason: 1
       start: 0
-      useMapping: true
-      animeMapping:
-        - tvdbseason: 1
-          start: 0
-          mappingType: explicit
-          explicitEpisodes:
-            1: 2
-            2: 3
-            3: 7
-            4: 8
-            5: 9
-            6: 10
-            7: 11
-            8: 12
-            9: 13
-            10: 14
-            11: 15
-            12: 18
-            13: 1
-            14: 4
-            15: 5
-            16: 6
-            17: 16
-            18: 17
-            19: 19
-            20: 20
-            21: 21
-            22: 22
-            23: 23
-            24: 24
-            25: 25
-            26: 26
+      useMapping: false
+      animeMapping: []
 
     - malid: 5
       title: 'Cowboy Bebop: Tengoku no Tobira'
@@ -190,6 +160,29 @@ AnimeMap:
           start: 892
         - tvdbseason: 22
           start: 1086
+
+    - malid: 22
+      title: Tennis no Oujisama
+      type: tv
+      tvdbid: 73532
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 27
+        - tvdbseason: 3
+          start: 54
+        - tvdbseason: 4
+          start: 76
+        - tvdbseason: 5
+          start: 102
+        - tvdbseason: 6
+          start: 129
+        - tvdbseason: 7
+          start: 166
 
     - malid: 25
       title: Sunabouzu
@@ -1452,6 +1445,83 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 235
+      title: Meitantei Conan
+      type: tv
+      tvdbid: 72454
+      tvdbseason: 1
+      start: 1
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 29
+        - tvdbseason: 3
+          start: 55
+        - tvdbseason: 4
+          start: 83
+        - tvdbseason: 5
+          start: 107
+        - tvdbseason: 6
+          start: 135
+        - tvdbseason: 7
+          start: 163
+        - tvdbseason: 8
+          start: 194
+        - tvdbseason: 9
+          start: 220
+        - tvdbseason: 10
+          start: 255
+        - tvdbseason: 11
+          start: 286
+        - tvdbseason: 12
+          start: 316
+        - tvdbseason: 13
+          start: 354
+        - tvdbseason: 14
+          start: 390
+        - tvdbseason: 15
+          start: 427
+        - tvdbseason: 16
+          start: 466
+        - tvdbseason: 17
+          start: 491
+        - tvdbseason: 18
+          start: 524
+        - tvdbseason: 19
+          start: 566
+        - tvdbseason: 20
+          start: 606
+        - tvdbseason: 21
+          start: 646
+        - tvdbseason: 22
+          start: 681
+        - tvdbseason: 23
+          start: 724
+        - tvdbseason: 24
+          start: 763
+        - tvdbseason: 25
+          start: 804
+        - tvdbseason: 26
+          start: 887
+        - tvdbseason: 27
+          start: 927
+        - tvdbseason: 28
+          start: 965
+        - tvdbseason: 29
+          start: 993
+        - tvdbseason: 30
+          start: 1033
+        - tvdbseason: 31
+          start: 1068
+        - tvdbseason: 32
+          start: 1109
+        - tvdbseason: 33
+          start: 1148
+        - tvdbseason: 34
+          start: 1187
+
     - malid: 236
       title: E's Otherwise
       type: tv
@@ -1568,83 +1638,6 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
-
-    - malid: 235
-      title: Case Closed
-      type: tv
-      tvdbid: 72454
-      tvdbseason: 1
-      start: 1
-      useMapping: true
-      animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 29
-        - tvdbseason: 3
-          start: 55
-        - tvdbseason: 4
-          start: 83
-        - tvdbseason: 5
-          start: 107
-        - tvdbseason: 6
-          start: 135
-        - tvdbseason: 7
-          start: 163
-        - tvdbseason: 8
-          start: 194
-        - tvdbseason: 9
-          start: 220
-        - tvdbseason: 10
-          start: 255
-        - tvdbseason: 11
-          start: 286
-        - tvdbseason: 12
-          start: 316
-        - tvdbseason: 13
-          start: 354
-        - tvdbseason: 14
-          start: 390
-        - tvdbseason: 15
-          start: 427
-        - tvdbseason: 16
-          start: 466
-        - tvdbseason: 17
-          start: 491
-        - tvdbseason: 18
-          start: 524
-        - tvdbseason: 19
-          start: 566
-        - tvdbseason: 20
-          start: 606
-        - tvdbseason: 21
-          start: 646
-        - tvdbseason: 22
-          start: 681
-        - tvdbseason: 23
-          start: 724
-        - tvdbseason: 24
-          start: 763
-        - tvdbseason: 25
-          start: 804
-        - tvdbseason: 26
-          start: 887
-        - tvdbseason: 27
-          start: 927
-        - tvdbseason: 28
-          start: 965
-        - tvdbseason: 29
-          start: 993
-        - tvdbseason: 30
-          start: 1033
-        - tvdbseason: 31
-          start: 1068
-        - tvdbseason: 32
-          start: 1109
-        - tvdbseason: 33
-          start: 1148
-        - tvdbseason: 34
-          start: 1187
 
     - malid: 249
       title: InuYasha
@@ -3170,6 +3163,15 @@ AnimeMap:
         - tvdbseason: 2
           start: 14
 
+    - malid: 586
+      title: 'Ayakashi: Japanese Classic Horror'
+      type: tv
+      tvdbid: 79202
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 592
       title: PopoloCrois
       type: tv
@@ -4203,6 +4205,26 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1003
+      title: Aa! Megami-sama! (TV) Specials
+      type: special
+      tvdbid: 78920
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            7: 1
+        - tvdbseason: 1
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            25: 2
+            26: 3
+
     - malid: 1007
       title: Ranma ½ OVA
       type: ova
@@ -4236,6 +4258,24 @@ AnimeMap:
       tvdbid: 76932
       tvdbseason: 0
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1015
+      title: 'Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi'
+      type: special
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1024
+      title: Weiß Kreuz OVA
+      type: ova
+      tvdbid: 72922
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -4274,6 +4314,23 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 1066
+      title: Shakugan no Shana-tan
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 1
+            2: 2
+            3: 3
+            5: 4
 
     - malid: 1072
       title: Sweat Punch
@@ -4669,6 +4726,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1531
+      title: 'Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!'
+      type: ova
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
     - malid: 1536
       title: Busou Renkin
       type: tv
@@ -4829,6 +4895,15 @@ AnimeMap:
           start: 451
         - tvdbseason: 22
           start: 459
+
+    - malid: 1815
+      title: Shakugan no Shana Movie
+      type: movie
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
 
     - malid: 1840
       title: 'Zero no Tsukaima: Futatsuki no Kishi'
@@ -5065,6 +5140,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2246
+      title: Mononoke
+      type: tv
+      tvdbid: 80470
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2251
       title: Baccano!
       type: tv
@@ -5281,6 +5365,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3221
+      title: Shakugan no Shana-tan Movie
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
     - malid: 3226
       title: Major S4
       type: tv
@@ -5312,6 +5405,15 @@ AnimeMap:
       title: Wagaya no Oinari-sama.
       type: tv
       tvdbid: 82803
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 3455
+      title: To LOVE-Ru
+      type: tv
+      tvdbid: 81831
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -5397,6 +5499,22 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 3956
+      title: Shakugan no Shana-tan II (Second)
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            7: 1
+            8: 2
+            10: 3
 
     - malid: 4037
       title: 'Cowboy Bebop: Yose Atsume Blues'
@@ -5794,6 +5912,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 5667
+      title: To LOVE-Ru OVA
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 5680
       title: K-On!
       type: tv
@@ -5875,6 +6002,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6330
+      title: 'Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako!'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 21
+      useMapping: false
+      animeMapping: []
+
     - malid: 6351
       title: 'Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen'
       type: special
@@ -5910,6 +6046,23 @@ AnimeMap:
       start: 20
       useMapping: false
       animeMapping: []
+
+    - malid: 6572
+      title: Shakugan no Shana S
+      type: ova
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            11: 1
+            13: 2
+            15: 3
+            17: 4
 
     - malid: 6573
       title: 'Darker than Black: Ryuusei no Gemini'
@@ -6143,6 +6296,23 @@ AnimeMap:
       start: 4
       useMapping: false
       animeMapping: []
+
+    - malid: 7375
+      title: Shakugan no Shana-tan S
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            12: 1
+            14: 2
+            16: 3
+            18: 4
 
     - malid: 7475
       title: Ano Ko ni 1000%
@@ -7361,6 +7531,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 12823
+      title: 'Shakugan no Shana-tan III (Final): Final Destruction'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 19
+      useMapping: false
+      animeMapping: []
+
     - malid: 12859
       title: 'One Piece Film: Z'
       type: movie
@@ -7448,6 +7627,24 @@ AnimeMap:
       tvdbid: 194961
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 13663
+      title: To LOVE-Ru Darkness
+      type: tv
+      tvdbid: 81831
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 13851
+      title: To LOVE-Ru Darkness OVA
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -7565,6 +7762,15 @@ AnimeMap:
       tvdbid: 257890
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 14957
+      title: 'Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! 2'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 29
       useMapping: false
       animeMapping: []
 
@@ -7859,6 +8065,15 @@ AnimeMap:
       tvdbid: 114801
       tvdbseason: 0
       start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 17551
+      title: 'Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 37
       useMapping: false
       animeMapping: []
 
@@ -9487,6 +9702,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 28603
+      title: 'Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! Specials'
+      type: special
+      tvdbid: 78962
+      tvdbseason: 0
+      start: 38
+      useMapping: false
+      animeMapping: []
+
     - malid: 28607
       title: 'Hetalia: The World Twinkle'
       type: ona
@@ -9542,6 +9766,15 @@ AnimeMap:
       animeMapping:
         - tvdbseason: 7
           start: 266
+
+    - malid: 28979
+      title: To LOVE-Ru Darkness 2nd
+      type: tv
+      tvdbid: 81831
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 29067
       title: Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me
@@ -9859,6 +10092,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31380
+      title: To LOVE-Ru Darkness 2nd OVA
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 31389
       title: 'Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day'
       type: special
@@ -9967,6 +10209,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31711
+      title: To LOVE-Ru Darkness 2nd Specials
+      type: special
+      tvdbid: 81831
+      tvdbseason: 4
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 31757
       title: 'Kizumonogatari II: Nekketsu-hen'
       type: movie
@@ -10035,6 +10286,15 @@ AnimeMap:
       type: tv
       tvdbid: 304476
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31931
+      title: Full Metal Panic! Invisible Victory
+      type: tv
+      tvdbid: 78914
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -11344,6 +11604,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 35000
+      title: 'To LOVE-Ru: Multiplication - Mae kara Ushiro kara'
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 16
+      useMapping: false
+      animeMapping: []
+
     - malid: 35044
       title: Tu Bian Yingxiong Leaf
       type: ona
@@ -11828,6 +12097,33 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36342
+      title: 'Full Metal Panic! Movie 1: Boy Meets Girl'
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36343
+      title: 'Full Metal Panic! Movie 2: One Night Stand'
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36344
+      title: 'Full Metal Panic! Movie 3: Into the Blue'
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
     - malid: 36407
       title: Kenja no Mago
       type: tv
@@ -12112,6 +12408,15 @@ AnimeMap:
       type: tv
       tvdbid: 343913
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37109
+      title: 'Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi'
+      type: special
+      tvdbid: 339276
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -12998,6 +13303,15 @@ AnimeMap:
       tvdbid: 355966
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38149
+      title: Full Metal Panic! Invisible Victory Intermission
+      type: tv_special
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -17267,6 +17581,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51193
+      title: Momo no Rakuen Keikaku Maruhi File
+      type: special
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 17
+      useMapping: false
+      animeMapping: []
+
     - malid: 51215
       title: Seijo no Maryoku wa Bannou desu Season 2
       type: tv
@@ -17489,6 +17812,15 @@ AnimeMap:
       tvdbid: 421378
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52107
+      title: 'Mononoke Movie 1: Karakasa'
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -21515,6 +21847,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59408
+      title: 'Mononoke Movie 2: Hinezumi'
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 59421
       title: Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru
       type: tv
@@ -23186,6 +23527,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61202
+      title: 'Mononoke Movie 3: Hebigami'
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
     - malid: 61203
       title: Kono Subarashii Sekai ni Shukufuku wo! 4
       type: tv
@@ -24370,6 +24720,15 @@ AnimeMap:
       type: ona
       tvdbid: 471791
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63266
+      title: Tensei Akujo no Kuro Rekishi OVA
+      type: ova
+      tvdbid: 446238
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
